@@ -1,0 +1,9 @@
+{
+  "firebase": "frontend-nanodegree-resume",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
